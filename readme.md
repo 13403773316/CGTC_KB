@@ -14,7 +14,7 @@ We provide a Chinese grammatical error correction benchmark named CGTC_KB, which
 - Validation Set (dev.input.txt, dev.kb.jsonl and ref.dev.txt): collected from real user inputs, containing original sentences, matched KB elements and the corrected sentences. The validation set can be used for model performance testing and hyper-parameter tuning, but it cannot be directly used for model training.
 - Test Set (test.input.txt and test.kb.jsonl): collected from real user inputs, containing original sentences and matched KB elements. The correction results are held out by the organizers for evaluation. Participants are required to submit the correction results of their systems.
 
-The data can be found at this link.
+The data can be found at [this link](https://cloud.tsinghua.edu.cn/f/9e46b10b52564736b0f3/](https://pan.baidu.com/s/1V03Fa08hB-3vvzuhgYwHCQ?pwd=2002 )
 
 **Rules:**
 
